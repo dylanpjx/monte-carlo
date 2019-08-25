@@ -8,4 +8,4 @@ Monte carlo approximation of pi:
 - Therefore, ratio * 4  = pi
 r = 1 for this use case.
 
-![](http://mathfaculty.fullerton.edu/mathews/n2003/montecarlopi/MonteCarloPiMod/Images/MonteCarloPiMod_gr_25.gif)
+![](https://i.stack.imgur.com/e9xI1.gif)
